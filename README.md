@@ -1,6 +1,6 @@
 ### Hello, I’m Pouria 👋
 
-Hello, I’m Pouria 👋
+
 
 <!--
 **pouria-azad/pouria-azad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
