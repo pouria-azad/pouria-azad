@@ -1,0 +1,38 @@
+/*!
+ * Bootstrap Icons v1.10.5 (https://icons.getbootstrap.com/)
+ * Copyright 2019-2023 The Bootstrap Authors
+ * Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE)
+ */
+
+ @font-face {
+    font-display: block;
+    font-family: "bootstrap-icons";
+    src: url("./fonts/bootstrap-icons.woff2?1fa40e8900654d2863d011707b9fb6f2") format("woff2"),
+  url("./fonts/bootstrap-icons.woff?1fa40e8900654d2863d011707b9fb6f2") format("woff");
+  }
+  
+  .bi::before,
+  [class^="bi-"]::before,
+  [class*=" bi-"]::before {
+    display: inline-block;
+    font-family: bootstrap-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: -.125em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+
+.bi-list::before { content: "\f479"; }
+.bi-linkedin::before { content: "\f472"; }
+.bi-github::before { content: "\f3ed"; }
+.bi-mastodon::before { content: "\f647"; }
+.bi-telegram::before { content: "\f5b3"; }
+.bi-chevron-right::before { content: "\f285"; }
+.bi-youtube::before { content: "\f62b"; }
+.bi-journal-richtext::before { content: "\f443"; }
+.bi-x::before { content: "\f62a"; }
