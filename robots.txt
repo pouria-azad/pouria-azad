@@ -4,4 +4,4 @@ Disallow: /assets/js/*
 Disallow: /assets/scss/*
 Disallow: /assets/vendor/*
 
-Sitemap: https://pouria-azad.ir/sitemap.xml
+Sitemap: https://resume.realpwr.ir/sitemap.xml
