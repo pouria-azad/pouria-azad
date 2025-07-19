@@ -36,6 +36,9 @@
 > 🧪 On a mission to become the strongest version of myself — one line of code at a time.
 ###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 <div align="left">
   <!-- Core Backend / Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
@@ -91,10 +94,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
