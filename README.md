@@ -19,18 +19,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Pouria-azad.Pouria-azad&"  />
 </div>
 
-###
+### 👋 Hey there! I'm Pourya from Mashhad
 
-<h1 align="center">hey there 👋</h1>
+💻 I’m a passionate programmer who loves building cool stuff  
+🌱 Currently diving into the world of **ASP.NET** and sharpening my backend skills  
+⚡ I enjoy solving real-world problems with code — even when it keeps me up at night!  
+🧠 I believe in **growth, purpose, and power** — not just in code, but in life  
+💬 I love open-minded conversations, especially about tech, goals, and human connection  
+🎯 My motto: _"Work smart, stay bold, and never stop leveling up."_
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm pourya from Mashhad<br><br>- 🔭 I’m working as programmer<br>- 📚 I'm currently learning asp.net<br>- ⚡ In my free time I coding</p>
-
+> 🧪 On a mission to become the strongest version of myself — one line of code at a time.
 ###
 
 <div align="left">
