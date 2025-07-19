@@ -21,11 +21,16 @@
 
 ### 👋 Hey there! I'm Pourya from Mashhad
 
-💻 I’m a passionate programmer who loves building cool stuff  
-🌱 Currently diving into the world of **ASP.NET** and sharpening my backend skills  
-⚡ I enjoy solving real-world problems with code — even when it keeps me up at night!  
+💻 I’m a passionate programmer who loves building cool stuff 
+ 
+🌱 Currently diving into the world of **ASP.NET** and sharpening my backend skills
+  
+⚡ I enjoy solving real-world problems with code — even when it keeps me up at night! 
+ 
 🧠 I believe in **growth, purpose, and power** — not just in code, but in life  
+
 💬 I love open-minded conversations, especially about tech, goals, and human connection  
+
 🎯 My motto: _"Work smart, stay bold, and never stop leveling up."_
 
 > 🧪 On a mission to become the strongest version of myself — one line of code at a time.
